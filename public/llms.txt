@@ -7,25 +7,25 @@
 ## Pages
 
 ### בית
-https://example.com
+https://haneshvan.zappy5.app
 מחפשים שם ייחודי לתינוק, לדמות או למותג? דפדפו ברשימת השמות שלנו, לחצו על הלב ודרגו את המועדפים שלכם. הצטרפו לקהילת הבוחרים עוד היום!
 
 ### תודה - השם הנבחר
-https://example.com/thank-you
+https://haneshvan.zappy5.app/thank-you
 השם הנבחר - תודה - השם הנבחר
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://haneshvan.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://haneshvan.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://haneshvan.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - Email: itay.yakirun1@gmail.com
 
 ### Contact form
-- URL: https://example.com
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://haneshvan.zappy5.app
+- Endpoint: https://haneshvan.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -69,6 +69,6 @@ Names & Content
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://haneshvan.zappy5.app/sitemap.xml
+- Robots: https://haneshvan.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://haneshvan.zappy5.app/llms-full.txt
