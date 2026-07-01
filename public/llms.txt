@@ -1,0 +1,74 @@
+# השם הנבחר — Generative Engine Optimization Map
+
+> A names-focused website featuring a list or collection of names with an interactive like/thumbs-up button for each entry. The site appears to be a voting or rating platform for names, possibly for baby names, character names, or similar naming purposes.
+
+---
+
+## Pages
+
+### בית
+https://-f867d28a.zappy5.app
+מחפשים שם ייחודי לתינוק, לדמות או למותג? דפדפו ברשימת השמות שלנו, לחצו על הלב ודרגו את המועדפים שלכם. הצטרפו לקהילת הבוחרים עוד היום!
+
+### תודה - השם הנבחר
+https://-f867d28a.zappy5.app/thank-you
+השם הנבחר - תודה - השם הנבחר
+
+## Legal & Policy
+
+### Privacy Policy
+https://-f867d28a.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-f867d28a.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-f867d28a.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-f867d28a.zappy5.app
+- Endpoint: https://-f867d28a.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (text)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About השם הנבחר
+A names-focused website featuring a list or collection of names with an interactive like/thumbs-up button for each entry. The site appears to be a voting or rating platform for names, possibly for baby names, character names, or similar naming purposes.
+
+## Services/Products
+- רשימת שמות
+- כפתור 👍 לייק/הצבעה
+
+## Target Audience
+- הורים בבחירת שמות
+- חובבי שמות
+- חוקרי תרבות
+
+## Industry
+Names & Content
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-f867d28a.zappy5.app/sitemap.xml
+- Robots: https://-f867d28a.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-f867d28a.zappy5.app/llms-full.txt
